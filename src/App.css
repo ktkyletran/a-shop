@@ -6,3 +6,7 @@
   flex: 4;
   background-color: #f0f0f0;
 }
+.link {
+  text-decoration: none;
+  color: #404040;
+}
