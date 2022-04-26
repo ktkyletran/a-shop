@@ -7,10 +7,10 @@ const User = () => {
   return (
     <div className='user'>
       <div className="userTitleContainer">
-        <Link to='newUser'>
           <h1 className="userTitle">Edit User</h1>
+        <Link to='/add/user'>
+          <button className="userAddButton">Create</button>
         </Link>
-        <button className="userAddButton">Create</button>
       </div>
       <div className="userContainer">
         <div className="userShow">
