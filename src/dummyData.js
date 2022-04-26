@@ -57,3 +57,12 @@ export const userRows = [
   { id: 5, userName: 'Matt H', avatar: 'https://picsum.photos/id/235/200', email: 'matt@gmail.com', status: 'active', transaction: '$6754.00' },
   { id: 6, userName: 'Chloe B.', avatar: 'https://picsum.photos/id/143/200', email: 'chlo@gmail.com', status: 'active', transaction: '$2341.00' },
 ];
+
+export const productRows = [
+  { id: 1, name: 'Apple Airpods', img: 'https://picsum.photos/id/243/200', stock: 10, status: 'active', price: '$120.00' },
+  { id: 2, name: 'Apple Phone Charger', img: 'https://picsum.photos/id/263/200', stock: 24, status: 'active', price: '$40.00' },
+  { id: 3, name: 'Apple iPhone 11', img: 'https://picsum.photos/id/264/200', stock: 12, status: 'active', price: '$800.00' },
+  { id: 4, name: 'Apple MacBook Pro', img: 'https://picsum.photos/id/234/200', stock: 15, status: 'active', price: '$1120.00' },
+  { id: 5, name: 'Apple MacBook Air', img: 'https://picsum.photos/id/211/200', stock: 18, status: 'active', price: '$1020.00' },
+  { id: 6, name: 'Apple Laptop Charger', img: 'https://picsum.photos/id/201/200', stock: 14, status: 'active', price: '$40.00' },
+];
